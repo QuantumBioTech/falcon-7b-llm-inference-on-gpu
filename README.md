@@ -16,3 +16,11 @@ git lfs install
 
 # Clone the repository
 git clone https://huggingface.co/tiiuae/falcon-7b-instruct
+
+# The output is (this process took around 2,5 hours):
+
+# Final Step
+python main.py
+
+
+
