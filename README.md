@@ -7,6 +7,12 @@ conda create -n env python=3.10
 # Activate the env
 conda activate env
 
+# Install Git Large file system
+
 sudo apt-get install git-lfs
+
+# Initiate the lfs
 git lfs install
+
+# Clone the repository
 git clone https://huggingface.co/tiiuae/falcon-7b-instruct
